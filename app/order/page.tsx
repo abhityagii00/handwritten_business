@@ -74,7 +74,7 @@ export default function OrderPage() {
         <div className="mx-auto flex max-w-6xl items-center justify-between">
 
           <a href="/" className="text-2xl font-black">
-            Write<span className="text-blue-600">Mate</span>
+            Write<span className="text-blue-600">Circle</span>
           </a>
 
           <a

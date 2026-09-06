@@ -11,7 +11,7 @@ export default function Home() {
       <nav className="sticky top-0 z-50 border-b border-black/10 bg-[#faf9f6]/90 backdrop-blur-md">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
           <a href="#" className="text-2xl font-black tracking-tight">
-            Write<span className="text-blue-600">Mate</span>
+            Write<span className="text-blue-600">Circle</span>
           </a>
 
           <div className="hidden items-center gap-8 md:flex">
@@ -263,12 +263,12 @@ export default function Home() {
 
             <Faq
               q="What is your cancellation and refund policy?"
-              a="If an order is cancelled before writing or material processing begins, refund eligibility will be reviewed based on the order status and any costs already incurred. Once writing or material processing has started, the advance may not be fully refundable because resources and work have already been allocated. If WriteMate is unable to fulfil an accepted order, the amount paid by the customer will be reviewed and refunded as applicable."
+              a="If an order is cancelled before writing or material processing begins, refund eligibility will be reviewed based on the order status and any costs already incurred. Once writing or material processing has started, the advance may not be fully refundable because resources and work have already been allocated. If WriteCircle is unable to fulfil an accepted order, the amount paid by the customer will be reviewed and refunded as applicable."
             />
 
             <Faq
             q="How is payment verified?"
-            a="All payment proofs are manually verified by the WriteMate team after the customer submits the payment screenshot."
+            a="All payment proofs are manually verified by the WriteCircle team after the customer submits the payment screenshot."
             />
           </div>
         </div>
@@ -279,7 +279,7 @@ export default function Home() {
         <div className="mx-auto flex max-w-7xl flex-col justify-between gap-5 md:flex-row">
           <div>
             <p className="text-xl font-black">
-              Write<span className="text-blue-600">Mate</span>
+              Write<span className="text-blue-600">Circle</span>
             </p>
             <p className="mt-2 text-sm text-black/50">
               Handwritten college work, without the hassle.
@@ -287,7 +287,7 @@ export default function Home() {
           </div>
 
           <p className="text-sm text-black/40">
-            © 2026 WriteMate. All rights reserved.
+            © 2026 WriteCircle. All rights reserved.
           </p>
         </div>
       </footer>

@@ -132,7 +132,7 @@ export default function WriterPage() {
         <div className="mx-auto flex max-w-6xl items-center justify-between">
 
           <a href="/" className="text-2xl font-black">
-            Write<span className="text-blue-600">Mate</span>
+            Write<span className="text-blue-600">Circle</span>
           </a>
 
           <a
@@ -160,7 +160,7 @@ export default function WriterPage() {
           </h1>
 
           <p className="mt-6 max-w-2xl text-lg leading-8 text-black/60">
-            Join WriteMate as a handwriting writer and get
+            Join WriteCircle as a handwriting writer and get
             opportunities to work on college assignments, notes,
             practical files and projects.
           </p>
@@ -414,7 +414,7 @@ export default function WriterPage() {
 
                   <p className="mt-2 text-sm leading-6 text-black/60">
                     If you are genuinely interested in working
-                    with WriteMate and understand the ₹350
+                    with WriteCircle and understand the ₹350
                     material & security fee requirement, you can
                     request a payment QR.
                   </p>

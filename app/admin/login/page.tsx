@@ -49,7 +49,7 @@ export default function AdminLoginPage() {
 
         <div className="text-center mb-8">
           <a href="/" className="text-3xl font-black">
-            Write<span className="text-blue-600">Mate</span>
+            Write<span className="text-blue-600">Cicle</span>
           </a>
 
           <p className="mt-3 text-sm text-black/50">
@@ -66,7 +66,7 @@ export default function AdminLoginPage() {
           </h1>
 
           <p className="mt-2 text-sm text-black/50">
-            Login to manage WriteMate orders.
+            Login to manage WriteCircle orders.
           </p>
 
           <div className="mt-8">

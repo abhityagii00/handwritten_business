@@ -84,7 +84,7 @@ export default function AdminPage() {
       <nav className="border-b border-black/10 px-6 py-5">
         <div className="mx-auto flex max-w-6xl items-center justify-between">
           <a href="/" className="text-2xl font-black">
-            Write<span className="text-blue-600">Mate</span>
+            Write<span className="text-blue-600">Circle</span>
           </a>
 
           <div className="flex items-center gap-3">

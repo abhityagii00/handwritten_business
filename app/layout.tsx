@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "WriteMate — Handwritten College Work",
-  description: "WriteMate provides neat handwritten assignments, notes, practical files and project work for college students.",
+  title: "WriteCircle — Handwritten College Work",
+  description: "WriteCircle connects students with writers for handwritten assignments, notes, practical files and project work.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
